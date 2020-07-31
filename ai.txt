@@ -1,0 +1,21 @@
+--Did you attempt to make your computer player very smart?
+
+No, I just set the computer random choose the valid move in my valid_move_list.
+I think it is enough to beat me, because I'm not good at play Othello.
+
+--If so, were you able to accomplish this? Is your computer player as smart as you would like?
+
+No, I do not attempt to make com smarter
+
+--How did you determine which piece to play next? Tell us about your “pick next move” algorithm
+
+My com is just random choose one move in the valid_move_list.
+After success place a disc on board, my code would recount the valid move and save to a list.
+
+--How often did your computer program beat you, or your friends, or whoever tested it out for you?
+
+My computer beat me 3 out of 5 games
+
+--How would you improve it in the future?
+
+If I hope to improve my com, I will try to count the most count of flip move that computer can place in valid move list.
